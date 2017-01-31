@@ -37,7 +37,7 @@ gem 'jbuilder', '~> 2.5'
 
 #MY GEMS
 gem 'rb-readline'
-
+gem 'bootstrap-sass', '~> 3.3.6'
 
 ############################
 
